@@ -1,0 +1,13 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+            <Label Text="Електронна таблиця" FontSize="20" HorizontalOptions="Center" />
+            <Button x:Name="ModeBtn" Text="Змінити режим" />
+            <Grid x:Name="SpreadsheetGrid" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

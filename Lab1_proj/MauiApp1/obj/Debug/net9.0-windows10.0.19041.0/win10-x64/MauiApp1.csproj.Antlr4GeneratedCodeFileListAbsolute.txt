@@ -1,0 +1,6 @@
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorLexer.cs
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorParser.cs
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorListener.cs
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorBaseListener.cs
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorVisitor.cs
+C:\oop\projects\Lab1_proj\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\LabCalculatorBaseVisitor.cs
